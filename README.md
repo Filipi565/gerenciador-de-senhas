@@ -8,4 +8,4 @@ um gerenciador para ajudar pessoas que tem dificuldade de lembrar ou criar senha
 
 *versão atual do programa: 0.2*
 
-see VERSIONINFO.md https://github.com/Filipi565/gerenciador-de-senhas/blob/b5446e0146e9c7587370d4eb6ca88cfa163bf4e9/VERSIONINFO.md
+olhe o [VERSIONINFO.md](https://github.com/Filipi565/gerenciador-de-senhas/blob/b5446e0146e9c7587370d4eb6ca88cfa163bf4e9/VERSIONINFO.md)
