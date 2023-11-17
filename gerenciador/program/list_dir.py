@@ -1,7 +1,7 @@
 import ctypes
 
 # dfsr = disable file system redirection
-# use this to fix some bugs using os.listdir or os.scandir
+# use this to fix some bugs using os.listdir or os.scandir for windows
 # look the link: https://stackoverflow.com/questions/19187812
 
 class DFSR:
