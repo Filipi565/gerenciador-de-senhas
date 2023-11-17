@@ -1,6 +1,7 @@
 from tkinter import *
 
-class Entry(Entry):
+class PEntry(Entry):
+    'Entry with a placeholder'
     def __init__(self, master=None, placeholder='', color='grey', **kwargs):
         super().__init__(master, **kwargs)
 
