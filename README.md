@@ -11,5 +11,17 @@ olhe os <a href="Version.md">detalhes da vers√£o</a> para mais detalhes da vers√
 
 * criar a senha:
 
-abra o arquivo "Gerenciador.py"
+abra o arquivo "Gerenciador.py" usando o comando:
 
+```
+pythonw Gerenciador.py
+```
+
+ou
+
+```
+python Gerenciador.py
+```
+
+vai abrir uma tela tkinter:
+<img src="https://img001.prntscr.com/file/img001/ZsVUPQshRwSLB-eXY3VxHw.png">
