@@ -75,3 +75,15 @@ como usar:
 with DFSR():
     print(os.listdir('Minha Pasta'))
 ```
+
+# Versão 1.1.0
+
+ao clicar o botão de salvar um texto acima do botão irá aparecer chamada outputLabel (global)
+
+variável entries for trocrada para arquivos
+
+varíavel entry do loop arquivos for trocada para arquivo 
+
+```Função __save(nome, pass_)```
+
+a função verifica se tem texto no nome e no pass_, caso não e de acordo com a variável "retornar" ele irá aparecer uma mensagen na outputLabel

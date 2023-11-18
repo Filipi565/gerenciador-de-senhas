@@ -1,8 +1,9 @@
 from tkinter import *
 
 class PEntry(Entry):
-    'Entry with a placeholder'
+    'Tkinter Entry with a placeholder option'
     def __init__(self, master=None, placeholder='', color='grey', **kwargs):
+        'Tkinter Entry with a placeholder option'
         super().__init__(master, **kwargs)
 
         self._placeholder = placeholder
