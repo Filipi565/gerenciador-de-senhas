@@ -63,6 +63,13 @@ retorna uma letra aleatória
 
 * list_dir.py
 
-dfsr = disable file system redirection
+DFSR = disable file system redirection
+
 use essa classe para bugs na hora de usar os.listdir
+
 olhe a pergunta: <a href="https://stackoverflow.com/questions/19187812">os.listdir can't see my directory</a>
+
+como usar:
+
+with DFSR():
+    print(os.listdir('minha Pasta'))
