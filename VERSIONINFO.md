@@ -17,7 +17,11 @@ programa app.py agora se chama Gerador.py
 # Versão 1.0.0
 Programa de Gerenciamento fora do Programa de Gerar senhas
 
-* teste
+* _
+_
+init
+_
+_.py
 
 ```Função __generate()```
 
