@@ -25,4 +25,4 @@ logo após, a função vai gerar uma senha nova de acordo com a quantidade de ca
 
 ```Função __save```
 
-essa função vai salvar arquivo na pasta "PassWords" com o nome dado e escrever o conteúdo "pass_"
+essa função vai salvar um arquivo na pasta "PassWords" com o nome dado e escrever o conteúdo "pass_"
