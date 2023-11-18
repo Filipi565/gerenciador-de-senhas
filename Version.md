@@ -23,13 +23,13 @@ init
 _
 _.py
 
-```Função __generate()```
+```Função __generate(caracteres, entry)```
 
 se o parâmetro "caracteres" não for um número inteiro, ele vai pegar a quantidade de caracteres que tem no parâmetro como base, porém se a quantidade de caracteres for 0, ele vai usar a padrão: 8.
 
 logo após, a função vai gerar uma senha nova de acordo com a quantidade de caracteres usando a função generate() do módulo generate.
 
-```Função __save()```
+```Função __save(nome, pass_)```
 
 essa função vai salvar um arquivo na pasta "PassWords" com o nome dado e escrever o conteúdo "pass_".
 
