@@ -7,7 +7,7 @@ olhe os <a href="Version.md">detalhes da versão</a> para mais detalhes da vers�
 
 # Como Usar
 
-* clone ou faça download do repositório
+* clone ou faça download do repositório ou baixe alguma <a href="https://github.com/Filipi565/gerenciador-de-senhas/releases">release</a>
 
 * criar a senha:
 
