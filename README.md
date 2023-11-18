@@ -3,7 +3,7 @@ um gerenciador para ajudar pessoas que tem dificuldade de lembrar ou criar senha
 
 *versão atual do programa: 1.0.0*
 
-olhe o <a href="Version.md">VERSIONINFO.md</a> para detalhes da versão
+olhe os <a href="Version.md">detalhes da versão</a> para mais detalhes da versão
 
 # Como Usar
 
