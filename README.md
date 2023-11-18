@@ -7,9 +7,9 @@ olhe os <a href="Version.md">detalhes da versão</a> para mais detalhes da vers�
 
 # Como Usar
 
-clonar repositório:
+* clone ou faça download do repositório
 
-```
-git clone https://github.com/Filipi565/gerenciador-de-senhas.git
-``` 
+* criar a senha:
+
+abra o arquivo "Gerenciador.py"
 
