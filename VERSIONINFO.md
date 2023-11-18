@@ -24,3 +24,5 @@ se o parâmetro "caracteres" não for um número inteiro, ele vai pegar a quanti
 logo após, a função vai gerar uma senha nova de acordo com a quantidade de caracteres na função generate() do módulo generate
 
 ```Função __save```
+
+a função "__save" vai salvar arquivo com o nome dado e escrever o conteúdo "pass_"
