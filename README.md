@@ -9,9 +9,7 @@ olhe os <a href="Version.md">detalhes da versão</a> para mais detalhes da vers�
 
 * clone ou faça download do repositório ou baixe alguma <a href="https://github.com/Filipi565/gerenciador-de-senhas/releases">release</a>
 
-
 * criar a senha:
-
 
 abra o arquivo "Gerador.py" usando o comando:
 
@@ -33,9 +31,7 @@ ao clicar no botão de gerar, uma senha irá aparecer na barra inferior.
 
 ao clicar no botão de salvar e não tiver um nome ele não irá salvar, mas caso há o nome da senha ele vai criar um arquivo na pasta PassWords com o nome dado e o conteúdo é a senha salva
 
-
 * visualizar senha salva
-
 
 abra o "Gerenciador.py" usando o comando:
 
