@@ -6,7 +6,7 @@ um gerenciador para ajudar pessoas que tem dificuldade de lembrar ou criar senha
 
 *versão python: 3.11*
 
-*versão atual do programa: 0.0.2*
+*versão atual do programa: 1.0.0*
 
 
 
