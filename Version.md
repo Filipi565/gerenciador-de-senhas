@@ -72,4 +72,5 @@ olhe a pergunta: <a href="https://stackoverflow.com/questions/19187812">os.listd
 como usar:
 
 with DFSR():
+
     print(os.listdir('minha Pasta'))
