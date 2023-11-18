@@ -26,3 +26,7 @@ python Gerenciador.py
 vai abrir uma tela tkinter:
 
 <img src="https://img001.prntscr.com/file/img001/ZsVUPQshRwSLB-eXY3VxHw.png">
+
+ao clicar no botão de gerar, uma senha irá aparecer na barra inferior.
+
+ao clicar no botão de salvar e não tiver um nome ele não irá salvar, mas caso há o nome da senha ele vai criar um arquivo na pasta PassWords com o nome dado e o conteúdo é a senha salva
