@@ -24,4 +24,5 @@ python Gerenciador.py
 ```
 
 vai abrir uma tela tkinter:
+
 <img src="https://img001.prntscr.com/file/img001/ZsVUPQshRwSLB-eXY3VxHw.png">
