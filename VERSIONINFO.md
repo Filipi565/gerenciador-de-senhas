@@ -41,8 +41,28 @@ essa função cria uma janela de criação de senha usando o tkinter com element
 
 essa função cria uma janela de gerenciamento de senha usando o tkinter. nessa tela você pode ver sua senha salva anteriormente na pasta "PassWords".
 
-*entry.py
+* entry.py
 
 ```Classe PEntry```
 
 essa classe é uma Entry do tkinter, porém com uma placeholder
+
+* generate.py
+
+```Função generate()```
+
+essa função vai gerar uma senha aleatória de acordo com a quantidade de caracteres que foi dado.
+
+* random_.py
+
+nesse módulo, só adiciona uma função amais para a biblioteca random.
+
+```Função randletter()```
+
+retorna uma letra aleatória
+
+* list_dir.py
+
+dfsr = disable file system redirection
+use essa classe para bugs na hora de usar os.listdir
+olhe a pergunta: <a href="https://stackoverflow.com/questions/19187812">os.listdir can't see my directory</a>
