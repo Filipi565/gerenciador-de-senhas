@@ -48,3 +48,5 @@ python Gerenciador.py
 vai abrir uma janela tkinter:
 
 <img src="https://img001.prntscr.com/file/img001/Ywj-7MV4T0W_-2z1ENuMgA.png">
+
+para cada linha vai aparecer o nome da sua senha e a sua senha salva separados por ":"
